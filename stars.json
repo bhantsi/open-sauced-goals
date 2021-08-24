@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "tailwindtoolbox/Ghostwind",
+    "stargazers_count": 118,
+    "open_issues_count": 0,
+    "forks_count": 44
+  },
+  {
+    "full_name": "tailwindadmin/admin",
+    "stargazers_count": 327,
+    "open_issues_count": 1,
+    "forks_count": 72
+  },
+  {
     "full_name": "bradtraversy/vanillawebprojects",
-    "stargazers_count": 10817,
+    "stargazers_count": 10825,
     "open_issues_count": 24,
-    "forks_count": 2791
+    "forks_count": 2798
   },
   {
     "full_name": "zero-to-mastery/JS_Fun_Practice",
@@ -21,7 +33,7 @@
     "full_name": "Camsbury/coderbyte",
     "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "Umuzi-org/django-react-stack",
@@ -43,9 +55,9 @@
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 5583,
+    "stargazers_count": 5589,
     "open_issues_count": 79,
-    "forks_count": 1325
+    "forks_count": 1326
   },
   {
     "full_name": "vmbrasseur/Public_Speaking",
@@ -55,15 +67,15 @@
   },
   {
     "full_name": "themesberg/volt-bootstrap-5-dashboard",
-    "stargazers_count": 2114,
+    "stargazers_count": 2117,
     "open_issues_count": 10,
-    "forks_count": 186
+    "forks_count": 188
   },
   {
     "full_name": "cruip/tailwind-dashboard-template",
-    "stargazers_count": 572,
+    "stargazers_count": 574,
     "open_issues_count": 0,
-    "forks_count": 98
+    "forks_count": 100
   },
   {
     "full_name": "idris92/EMS-commerce",
@@ -73,15 +85,15 @@
   },
   {
     "full_name": "moesaid/cleopatra",
-    "stargazers_count": 765,
+    "stargazers_count": 769,
     "open_issues_count": 0,
-    "forks_count": 120
+    "forks_count": 122
   },
   {
     "full_name": "wobsoriano/v-dashboard",
-    "stargazers_count": 586,
+    "stargazers_count": 585,
     "open_issues_count": 2,
-    "forks_count": 132
+    "forks_count": 131
   },
   {
     "full_name": "davidgrzyb/tailwind-admin-template",
@@ -91,33 +103,33 @@
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 117666,
-    "open_issues_count": 241,
-    "forks_count": 19356
+    "stargazers_count": 117752,
+    "open_issues_count": 242,
+    "forks_count": 19371
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 37293,
+    "stargazers_count": 37319,
     "open_issues_count": 64,
-    "forks_count": 4932
+    "forks_count": 4938
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 43140,
+    "stargazers_count": 43161,
     "open_issues_count": 5,
-    "forks_count": 5484
+    "forks_count": 5489
   },
   {
     "full_name": "PaystackHQ/nigerialogos",
     "stargazers_count": 201,
     "open_issues_count": 5,
-    "forks_count": 183
+    "forks_count": 184
   },
   {
     "full_name": "kleampa/not-paid",
-    "stargazers_count": 8169,
+    "stargazers_count": 8171,
     "open_issues_count": 14,
-    "forks_count": 632
+    "forks_count": 631
   },
   {
     "full_name": "bahdcoder/coin-doctor",
@@ -133,9 +145,9 @@
   },
   {
     "full_name": "LeCoupa/awesome-cheatsheets",
-    "stargazers_count": 21517,
+    "stargazers_count": 21532,
     "open_issues_count": 40,
-    "forks_count": 3586
+    "forks_count": 3589
   },
   {
     "full_name": "fireship-io/3.1-firebase-basics",
@@ -145,8 +157,8 @@
   },
   {
     "full_name": "antoniandre/wave-ui",
-    "stargazers_count": 256,
-    "open_issues_count": 6,
+    "stargazers_count": 257,
+    "open_issues_count": 8,
     "forks_count": 15
   },
   {
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "Qvant-lab/qui",
-    "stargazers_count": 196,
+    "stargazers_count": 195,
     "open_issues_count": 7,
     "forks_count": 10
-  },
-  {
-    "full_name": "quatrochan/Equal",
-    "stargazers_count": 570,
-    "open_issues_count": 9,
-    "forks_count": 35
-  },
-  {
-    "full_name": "vuejs/awesome-vue",
-    "stargazers_count": 61894,
-    "open_issues_count": 28,
-    "forks_count": 8565
   }
 ]
