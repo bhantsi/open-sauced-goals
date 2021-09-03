@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "academind/react-complete-guide-code",
+    "stargazers_count": 1266,
+    "open_issues_count": 32,
+    "forks_count": 3006
+  },
+  {
+    "full_name": "maitraysuthar/rest-api-nodejs-mongodb",
+    "stargazers_count": 780,
+    "open_issues_count": 21,
+    "forks_count": 261
+  },
+  {
+    "full_name": "Naereen/badges",
+    "stargazers_count": 2758,
+    "open_issues_count": 2,
+    "forks_count": 423
+  },
+  {
     "full_name": "codeclannigeria/codeclannigeria-hacktoberfest",
     "stargazers_count": 6,
     "open_issues_count": 2,
@@ -7,27 +25,27 @@
   },
   {
     "full_name": "tailwindtoolbox/Ghostwind",
-    "stargazers_count": 121,
+    "stargazers_count": 122,
     "open_issues_count": 0,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "tailwindadmin/admin",
-    "stargazers_count": 327,
+    "stargazers_count": 328,
     "open_issues_count": 1,
-    "forks_count": 72
+    "forks_count": 73
   },
   {
     "full_name": "bradtraversy/vanillawebprojects",
-    "stargazers_count": 10884,
+    "stargazers_count": 10898,
     "open_issues_count": 24,
-    "forks_count": 2816
+    "forks_count": 2819
   },
   {
     "full_name": "zero-to-mastery/JS_Fun_Practice",
     "stargazers_count": 247,
     "open_issues_count": 5,
-    "forks_count": 327
+    "forks_count": 325
   },
   {
     "full_name": "Olanetsoft/Ticking-Clock-With-React",
@@ -48,21 +66,21 @@
     "forks_count": 1
   },
   {
-    "full_name": "mdbootstrap/mdb-vue-ui-kit",
-    "stargazers_count": 813,
+    "full_name": "mdbootstrap/mdb4-vue-ui-kit",
+    "stargazers_count": 73,
     "open_issues_count": 0,
-    "forks_count": 177
+    "forks_count": 13
   },
   {
     "full_name": "jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript",
-    "stargazers_count": 360,
+    "stargazers_count": 359,
     "open_issues_count": 8,
-    "forks_count": 376
+    "forks_count": 378
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 5605,
-    "open_issues_count": 82,
+    "stargazers_count": 5612,
+    "open_issues_count": 83,
     "forks_count": 1339
   },
   {
@@ -73,15 +91,15 @@
   },
   {
     "full_name": "themesberg/volt-bootstrap-5-dashboard",
-    "stargazers_count": 2131,
+    "stargazers_count": 2136,
     "open_issues_count": 10,
     "forks_count": 195
   },
   {
     "full_name": "cruip/tailwind-dashboard-template",
-    "stargazers_count": 591,
+    "stargazers_count": 599,
     "open_issues_count": 0,
-    "forks_count": 102
+    "forks_count": 105
   },
   {
     "full_name": "idris92/EMS-commerce",
@@ -91,15 +109,15 @@
   },
   {
     "full_name": "moesaid/cleopatra",
-    "stargazers_count": 779,
+    "stargazers_count": 780,
     "open_issues_count": 0,
-    "forks_count": 125
+    "forks_count": 126
   },
   {
     "full_name": "wobsoriano/v-dashboard",
-    "stargazers_count": 594,
+    "stargazers_count": 595,
     "open_issues_count": 2,
-    "forks_count": 133
+    "forks_count": 134
   },
   {
     "full_name": "davidgrzyb/tailwind-admin-template",
@@ -109,21 +127,21 @@
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 118087,
+    "stargazers_count": 118189,
     "open_issues_count": 246,
-    "forks_count": 19466
+    "forks_count": 19489
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 37459,
+    "stargazers_count": 37491,
     "open_issues_count": 65,
-    "forks_count": 4962
+    "forks_count": 4974
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 43277,
-    "open_issues_count": 5,
-    "forks_count": 5516
+    "stargazers_count": 43306,
+    "open_issues_count": 7,
+    "forks_count": 5525
   },
   {
     "full_name": "PaystackHQ/nigerialogos",
@@ -133,7 +151,7 @@
   },
   {
     "full_name": "kleampa/not-paid",
-    "stargazers_count": 8195,
+    "stargazers_count": 8194,
     "open_issues_count": 14,
     "forks_count": 633
   },
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "LeCoupa/awesome-cheatsheets",
-    "stargazers_count": 21672,
+    "stargazers_count": 21723,
     "open_issues_count": 41,
-    "forks_count": 3634
+    "forks_count": 3640
   },
   {
     "full_name": "fireship-io/3.1-firebase-basics",
     "stargazers_count": 63,
     "open_issues_count": 4,
     "forks_count": 33
-  },
-  {
-    "full_name": "antoniandre/wave-ui",
-    "stargazers_count": 262,
-    "open_issues_count": 8,
-    "forks_count": 16
-  },
-  {
-    "full_name": "rakannimer/react-firebase",
-    "stargazers_count": 193,
-    "open_issues_count": 199,
-    "forks_count": 27
-  },
-  {
-    "full_name": "tarnishablec/frog-admin",
-    "stargazers_count": 26,
-    "open_issues_count": 16,
-    "forks_count": 22
   }
 ]
