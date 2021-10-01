@@ -1,39 +1,39 @@
 [
   {
     "full_name": "chakra-ui/chakra-ui-vue-next",
-    "stargazers_count": 105,
+    "stargazers_count": 106,
     "open_issues_count": 7,
     "forks_count": 15
   },
   {
     "full_name": "john-smilga/javascript-basic-projects",
-    "stargazers_count": 1515,
+    "stargazers_count": 1518,
     "open_issues_count": 23,
-    "forks_count": 1586
+    "forks_count": 1590
   },
   {
     "full_name": "SoftwareBrothers/adminjs",
-    "stargazers_count": 4273,
+    "stargazers_count": 4279,
     "open_issues_count": 229,
     "forks_count": 349
   },
   {
     "full_name": "academind/react-complete-guide-code",
-    "stargazers_count": 1624,
-    "open_issues_count": 38,
-    "forks_count": 3518
+    "stargazers_count": 1637,
+    "open_issues_count": 39,
+    "forks_count": 3559
   },
   {
     "full_name": "maitraysuthar/rest-api-nodejs-mongodb",
-    "stargazers_count": 802,
+    "stargazers_count": 806,
     "open_issues_count": 21,
     "forks_count": 275
   },
   {
     "full_name": "Naereen/badges",
-    "stargazers_count": 2825,
+    "stargazers_count": 2829,
     "open_issues_count": 0,
-    "forks_count": 439
+    "forks_count": 441
   },
   {
     "full_name": "codeclannigeria/codeclannigeria-hacktoberfest",
@@ -45,23 +45,23 @@
     "full_name": "tailwindtoolbox/Ghostwind",
     "stargazers_count": 125,
     "open_issues_count": 0,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "tailwindadmin/admin",
-    "stargazers_count": 333,
+    "stargazers_count": 334,
     "open_issues_count": 1,
     "forks_count": 74
   },
   {
     "full_name": "bradtraversy/vanillawebprojects",
-    "stargazers_count": 11123,
+    "stargazers_count": 11125,
     "open_issues_count": 25,
     "forks_count": 2920
   },
   {
     "full_name": "zero-to-mastery/JS_Fun_Practice",
-    "stargazers_count": 263,
+    "stargazers_count": 264,
     "open_issues_count": 7,
     "forks_count": 334
   },
@@ -93,13 +93,13 @@
     "full_name": "jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript",
     "stargazers_count": 367,
     "open_issues_count": 8,
-    "forks_count": 396
+    "forks_count": 397
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 5683,
+    "stargazers_count": 5692,
     "open_issues_count": 87,
-    "forks_count": 1365
+    "forks_count": 1367
   },
   {
     "full_name": "vmbrasseur/Public_Speaking",
@@ -111,13 +111,13 @@
     "full_name": "themesberg/volt-bootstrap-5-dashboard",
     "stargazers_count": 2168,
     "open_issues_count": 10,
-    "forks_count": 202
+    "forks_count": 204
   },
   {
     "full_name": "cruip/tailwind-dashboard-template",
-    "stargazers_count": 648,
+    "stargazers_count": 649,
     "open_issues_count": 0,
-    "forks_count": 114
+    "forks_count": 118
   },
   {
     "full_name": "idris92/EMS-commerce",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "wobsoriano/v-dashboard",
-    "stargazers_count": 613,
+    "stargazers_count": 615,
     "open_issues_count": 0,
     "forks_count": 139
   },
@@ -135,25 +135,25 @@
     "full_name": "davidgrzyb/tailwind-admin-template",
     "stargazers_count": 281,
     "open_issues_count": 1,
-    "forks_count": 89
+    "forks_count": 88
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 120555,
-    "open_issues_count": 248,
-    "forks_count": 19803
+    "stargazers_count": 120722,
+    "open_issues_count": 250,
+    "forks_count": 19841
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 38241,
+    "stargazers_count": 38326,
     "open_issues_count": 61,
-    "forks_count": 5080
+    "forks_count": 5101
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 43633,
+    "stargazers_count": 43668,
     "open_issues_count": 5,
-    "forks_count": 5608
+    "forks_count": 5621
   },
   {
     "full_name": "PaystackHQ/nigerialogos",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "kleampa/not-paid",
-    "stargazers_count": 8499,
+    "stargazers_count": 8506,
     "open_issues_count": 14,
     "forks_count": 656
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "LeCoupa/awesome-cheatsheets",
-    "stargazers_count": 23726,
-    "open_issues_count": 44,
-    "forks_count": 3871
+    "stargazers_count": 23788,
+    "open_issues_count": 45,
+    "forks_count": 3878
   }
 ]
