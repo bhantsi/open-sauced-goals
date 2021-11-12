@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "ratracegrad/coderbyte-Beginner",
+    "stargazers_count": 69,
+    "open_issues_count": 2,
+    "forks_count": 57
+  },
+  {
     "full_name": "deepanshu1422/List-Of-Open-Source-Internships-Programs",
-    "stargazers_count": 1675,
+    "stargazers_count": 1677,
     "open_issues_count": 10,
     "forks_count": 257
   },
   {
     "full_name": "john-smilga/node-express-course",
-    "stargazers_count": 765,
+    "stargazers_count": 775,
     "open_issues_count": 3,
-    "forks_count": 708
+    "forks_count": 716
   },
   {
     "full_name": "mohitjaisal/GithubCardss",
@@ -19,9 +25,9 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 166988,
-    "open_issues_count": 11,
-    "forks_count": 19219
+    "stargazers_count": 167205,
+    "open_issues_count": 12,
+    "forks_count": 19253
   },
   {
     "full_name": "chakra-ui/chakra-ui-vue-next",
@@ -31,21 +37,21 @@
   },
   {
     "full_name": "john-smilga/javascript-basic-projects",
-    "stargazers_count": 1629,
+    "stargazers_count": 1638,
     "open_issues_count": 23,
-    "forks_count": 1702
+    "forks_count": 1721
   },
   {
     "full_name": "SoftwareBrothers/adminjs",
-    "stargazers_count": 4363,
+    "stargazers_count": 4371,
     "open_issues_count": 239,
     "forks_count": 350
   },
   {
     "full_name": "academind/react-complete-guide-code",
-    "stargazers_count": 1876,
+    "stargazers_count": 1883,
     "open_issues_count": 43,
-    "forks_count": 4186
+    "forks_count": 4239
   },
   {
     "full_name": "maitraysuthar/rest-api-nodejs-mongodb",
@@ -55,9 +61,9 @@
   },
   {
     "full_name": "Naereen/badges",
-    "stargazers_count": 2908,
+    "stargazers_count": 2911,
     "open_issues_count": 0,
-    "forks_count": 439
+    "forks_count": 438
   },
   {
     "full_name": "tailwindtoolbox/Ghostwind",
@@ -67,21 +73,21 @@
   },
   {
     "full_name": "tailwindadmin/admin",
-    "stargazers_count": 345,
+    "stargazers_count": 346,
     "open_issues_count": 1,
-    "forks_count": 75
+    "forks_count": 76
   },
   {
     "full_name": "bradtraversy/vanillawebprojects",
-    "stargazers_count": 11314,
+    "stargazers_count": 11334,
     "open_issues_count": 27,
-    "forks_count": 3003
+    "forks_count": 3011
   },
   {
     "full_name": "zero-to-mastery/JS_Fun_Practice",
-    "stargazers_count": 294,
+    "stargazers_count": 296,
     "open_issues_count": 4,
-    "forks_count": 354
+    "forks_count": 353
   },
   {
     "full_name": "Olanetsoft/Ticking-Clock-With-React",
@@ -111,11 +117,11 @@
     "full_name": "jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript",
     "stargazers_count": 381,
     "open_issues_count": 8,
-    "forks_count": 414
+    "forks_count": 415
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 5790,
+    "stargazers_count": 5799,
     "open_issues_count": 80,
     "forks_count": 1407
   },
@@ -127,13 +133,13 @@
   },
   {
     "full_name": "themesberg/volt-bootstrap-5-dashboard",
-    "stargazers_count": 2212,
+    "stargazers_count": 2215,
     "open_issues_count": 18,
-    "forks_count": 220
+    "forks_count": 221
   },
   {
     "full_name": "cruip/tailwind-dashboard-template",
-    "stargazers_count": 706,
+    "stargazers_count": 707,
     "open_issues_count": 0,
     "forks_count": 131
   },
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 126294,
-    "open_issues_count": 261,
-    "forks_count": 20576
+    "stargazers_count": 126406,
+    "open_issues_count": 259,
+    "forks_count": 20597
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 39087,
+    "stargazers_count": 39119,
     "open_issues_count": 66,
-    "forks_count": 5271
+    "forks_count": 5281
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 45018,
+    "stargazers_count": 45063,
     "open_issues_count": 8,
-    "forks_count": 5841
-  },
-  {
-    "full_name": "PaystackHQ/nigerialogos",
-    "stargazers_count": 207,
-    "open_issues_count": 5,
-    "forks_count": 192
+    "forks_count": 5861
   }
 ]
